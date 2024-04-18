@@ -1,0 +1,6 @@
+site_name: "frontendtest1"
+docs_dir: docs
+plugins:
+- techdocs-core
+nav:
+- Home: index.md
